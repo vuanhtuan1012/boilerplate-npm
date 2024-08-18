@@ -1,6 +1,5 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "VU Anh Tuan",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -16,7 +15,7 @@
 	"description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
 	"devDependencies": {},
 	"keywords": [],
-	"author": "",
+	"author": "VU Anh Tuan",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
